@@ -5,8 +5,8 @@ App android nativo de simulação de partidas. Este repositório foi organizado 
 1. Desenvolvimento Mobile Nativo Para Android 
        .[release/desenvolvimento-mobile-nativo-para-android](https://github.com/PauloBecker/matches-simulator-app/tree/release/desenvolvimento-mobile-nativo-para-android)
 
-2. Componentes, Layouts, UI/UX Em Apps Android.
+2. Componentes, Layouts, UI/UX Em Apps Android
+       .[release/componentes-layouts-ui-ux-em-apps-android](https://github.com/PauloBecker/matches-simulator-app/tree/release/componentes-layouts-ui-ux-em-apps-android)
 
 3. Java e Kotlin juntos. Construindo Apps Android
-       . [release/java-e-kotlin-juntos-construindo-apps-android](https://github.com/PauloBecker/matches-simulator-app/tree/release/java-e-kotlin-juntos-construindo-apps-android)
-    
+       . [release/java-e-kotlin-juntos-construindo-apps-android](https://github.com/PauloBecker/matches-simulator-app/tree/release/java-e-kotlin-juntos-construindo-apps-android)    
