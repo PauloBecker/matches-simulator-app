@@ -4,4 +4,5 @@
     <string name="txt_simulate">Match simulator button.</string>
     <string name="cd_home_team">Imagem do time mandante</string>
     <string name="cd_away_team">Away team image</string>
+    <string name="error_api">Unexpected error</string>
 </resources>
